@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "c844caa6-2780-4650-95f4-4fbfc921c06b",
+      "Name": "pawan",
+      "Email": "pawan.powerstar@gmail.com"
+    },
+    {
+      "id": "3f5f0baa-3872-4af1-90a7-db62b4a18808",
+      "Name": "mahesh",
+      "Email": "mahesh.superstar@gmail.com"
+    },
+    {
+      "id": "96cf3e27-4306-41b4-b925-f91544f8d157",
+      "Name": "sriram1",
+      "Email": "sriramsriram832@gmail.com"
+    },
+    {
+      "id": "27f27b62-9e96-424d-8df8-f58f31ead308",
+      "Name": "roshan123",
+      "Email": "roshan@krish.com"
+    }
+  ]
+}
